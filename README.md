@@ -1,7 +1,7 @@
-# Powerpuff Laser Battle
+# Laser-Puff-Clash
 ![Laser Puff Clash](assets/game-ss.jpg/)
 ## Description
-**Powerpuff Laser Battle** is a two-player laser shooting game featuring Bubbles and Blossom from the Powerpuff Girls. Players control their characters using the keyboard to move and shoot lasers at the opponent. The game ends when one player's life reaches zero, and the winner is declared.
+**Laser-Puff-Clash** is a two-player laser shooting game featuring Bubbles and Blossom from the Powerpuff Girls. Players control their characters using the keyboard to move and shoot lasers at the opponent. The game ends when one player's life reaches zero, and the winner is declared.
 
 ## Controls
 ### Player 1 (Bubbles)
